@@ -16,7 +16,7 @@
 
 ### Flask Application Creation
 - Create a new Flask application in VS Code and save it within the `flask-lab` directory.
-- placeholder
+  <img width="800" height="780" alt="image" src="https://github.com/user-attachments/assets/c02269c5-cedd-4d84-a2a2-2eab8adcccd9" />
 
 ### Wordlist Creation (Users & Passwords)
 - Create a new text file in VS Code containing test passwords (`testpwlist.txt`).
