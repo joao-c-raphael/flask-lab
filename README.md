@@ -20,13 +20,16 @@
 
 ### Wordlist Creation (Users & Passwords)
 - Create a new text file in VS Code containing test passwords (`testpwlist.txt`).
+
   <img width="385" height="186" alt="image" src="https://github.com/user-attachments/assets/ae973650-ec34-4e17-a1d1-2a89973f2c16" />
 
 - Repeat the process for the username wordlist (`usernames.txt`).
 
 ### Attack Script Development
-- placeholder
-- placeholder
+  <img width="735" height="1060" alt="image" src="https://github.com/user-attachments/assets/a094f0e0-28eb-4b69-86fe-65091aef963a" />
+
+  <img width="836" height="505" alt="image" src="https://github.com/user-attachments/assets/80fe821a-ae02-43c5-bcbd-17e2cdd97888" />
+
 
 ### Running the Flask Server
 - placeholder
