@@ -35,12 +35,14 @@
   <img width="1427" height="135" alt="image" src="https://github.com/user-attachments/assets/69ac5dcf-17dc-47f6-bd3f-6d20d9aaf799" />
 
 - Verify application functionality and endpoint accessibility.
+
   <img width="445" height="92" alt="image" src="https://github.com/user-attachments/assets/98109b7c-ed1e-4369-9a46-3bea05a7fca3" />
 
 
 ### Executing the Attack Script
 - Open a new PowerShell terminal and activate the virtual environment.
 - Execute the attack script (`python attack.py`).
+
   <img width="645" height="117" alt="image" src="https://github.com/user-attachments/assets/d42a7091-0fcd-4386-9965-0f5bc0b66598" />
 
 - **Results & Observations:**
