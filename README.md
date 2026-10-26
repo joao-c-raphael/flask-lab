@@ -48,4 +48,4 @@
 - **Results & Observations:**
   - The attack script loaded `testpwlist.txt` and `usernames.txt`.
   - It systematically iterated through the password list against the target usernames until valid credentials were confirmed via the "Welcome" success response.
-  - Execution terminated early upon finding a successful match on the first targeted user (`admin`), bypassing subsequent usernames.
+  - Execution terminated early upon finding a successful match on the first targeted user (`admin`), before getting to other usernames.
