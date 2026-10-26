@@ -7,8 +7,10 @@
 ### Environment Setup
 - Create a dedicated project folder.
 - Initialize and activate a Python virtual environment.
-- placeholder
-- placeholder
+  <img width="595" height="23" alt="image" src="https://github.com/user-attachments/assets/d91ff12c-091a-4384-8555-9bca8f1cb363" />
+
+  <img width="697" height="55" alt="image" src="https://github.com/user-attachments/assets/0e88217a-81a9-4c35-98c9-7d1e9809be25" />
+
 - Install required dependencies (`Flask` and `requests`).
 
 ### Flask Application Creation
