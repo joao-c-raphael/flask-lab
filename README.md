@@ -20,7 +20,7 @@
 
 ### Wordlist Creation (Users & Passwords)
 - Create a new text file in VS Code containing test passwords (`testpwlist.txt`).
-- placeholder
+  <img width="385" height="186" alt="image" src="https://github.com/user-attachments/assets/ae973650-ec34-4e17-a1d1-2a89973f2c16" />
 - Repeat the process for the username wordlist (`usernames.txt`).
 
 ### Attack Script Development
